@@ -1,0 +1,20 @@
+2
+M
+T
+-5.0 2.5
+-9
+1.0
+1.48
+348
+512
+
+
+typinp
+forout
+bounds
+top and bottom log tau for interpolation
+log tau at top of atmosphere
+turb vel
+grav acceleration multiplication factor (M/R^2)
+number of atmospheric depth points
+number of rays (columns)
